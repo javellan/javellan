@@ -1,7 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/moonrise-dark.svg">
-  <img src="assets/moonrise-light.svg" alt="Joaquin Avellan. A garden at moonrise." width="100%">
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/moonrise-dark.svg">
+    <img src="assets/moonrise-light.svg" alt="Joaquin Avellan. A garden at moonrise." width="100%">
+  </picture>
+</p>
 
 People and machines, tending the same light.
 
