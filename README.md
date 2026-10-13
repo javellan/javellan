@@ -1,7 +1,7 @@
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/moonrise-dark.svg">
-    <img src="assets/moonrise-light.svg" alt="Joaquin Avellan. A garden at moonrise." width="100%">
+    <img src="assets/moonrise-light.svg" alt="Joaquín Avellán. A garden at moonrise." width="100%">
   </picture>
 </p>
 
